@@ -120,7 +120,7 @@ The system consists of three main intelligent components working in tandem:
 
 ## 👥 Team
 
--   **The Medical Guy** – 
+-   **MRIDUL VINOD KUMAR** – Medical Student at Govt. Medical College, Thiruvananthapuram
 -   **SIDDHARTH** – Doing BTech at CUSAT
 -   **The Python Guy** – 
 -   **The Other Python Guy** – 
