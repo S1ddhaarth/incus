@@ -1,10 +1,10 @@
 # Voice-Controlled Anesthesia Workstation
 
-A voice-activated intelligent anesthesia workstation with embedded control and safety systems, designed to reduce clinician distraction and increase response speed in critical surgical environments.
+A voice-controlled intelligent anesthesia workstation with embedded control and safety systems, designed to reduce clinician distraction and increase response speed in critical surgical environments.
 
 # Project Overview
 
-A hybrid voice + physical anesthesia control console suitable for real-time clinical environments. This prototype demonstrates a closed-loop control system that automates anesthetic drug delivery monitoring using real-time feedback while enforcing strict safety constraints through voice commands and manual overrides.
+A hybrid voice + physical anesthesia control console suitable for real-time clinical environments. This prototype demonstrates a voice-controlled anesthetic drug delivery system along with associated functions of an anesthesia workstation like ventillation regulation, suction etc. while enforcing strict safety constraints through voice commands and manual overrides.
 
 This project was developed as part of the **TinkerHub 24-Hour Hackathon (Jan 31 – Feb 1)**.
 
