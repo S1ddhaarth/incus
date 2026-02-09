@@ -122,8 +122,8 @@ The system consists of three main intelligent components working in tandem:
 
 -   **MRIDUL VINOD KUMAR** – Medical Student at Govt. Medical College, Thiruvananthapuram
 -   **SIDDHARTH** – Doing BTech at CUSAT
--   **The Python Guy** – 
--   **The Other Python Guy** – 
+-   **Mohamed Suhail** – BCA | Full Stack Developer | IT Executive
+-   **Hafiz Aslam** – Fullstack Developer | Brotoype Intern
 
 ---
 
